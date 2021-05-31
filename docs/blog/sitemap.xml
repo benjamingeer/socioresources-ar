@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/categories/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
@@ -20,9 +19,7 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/posts/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,9 +37,7 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,19 +55,13 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%A8%D9%8A%D8%A6%D8%A9/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%88%D8%A7%D8%A9/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2021/04/kawkabna/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,14 +79,10 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2021/04/kawkabna/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/categories/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -115,14 +100,10 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D9%87%D8%AC%D8%B1%D8%A9/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D9%84%D9%81/</loc>
     <lastmod>2020-06-02T14:12:02+00:00</lastmod>
     <xhtml:link
@@ -140,14 +121,10 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D9%84%D9%81/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/categories/%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB/</loc>
     <lastmod>2019-02-27T16:06:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2019/02/%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A/</loc>
     <lastmod>2019-02-27T16:06:24+00:00</lastmod>
     <xhtml:link
@@ -165,29 +142,19 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2019/02/%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%AF%D9%8A%D9%86/</loc>
     <lastmod>2019-02-27T16:06:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D9%85%D8%B5%D8%B1/</loc>
     <lastmod>2019-02-27T16:06:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%84/</loc>
     <lastmod>2019-02-27T16:06:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%B3%D9%8A%D9%86%D9%85%D8%A7/</loc>
     <lastmod>2015-04-28T21:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/04/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D8%AC%D9%8A%D9%86/</loc>
     <lastmod>2015-04-28T21:35:00+00:00</lastmod>
     <xhtml:link
@@ -205,19 +172,13 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/04/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D8%AC%D9%8A%D9%86/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9/</loc>
     <lastmod>2015-04-27T22:11:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%84%D9%84%D8%B9%D9%85%D9%88%D9%85/</loc>
     <lastmod>2015-04-27T22:11:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/04/%D9%83%D9%8A%D9%81-%D8%AA%D8%B5%D8%A8%D8%AD-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D9%8B-%D9%85%D8%BA%D9%85%D9%88%D8%B1%D8%A7%D9%8B/</loc>
     <lastmod>2015-04-27T22:11:38+00:00</lastmod>
     <xhtml:link
@@ -235,14 +196,10 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/04/%D9%83%D9%8A%D9%81-%D8%AA%D8%B5%D8%A8%D8%AD-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D9%8B-%D9%85%D8%BA%D9%85%D9%88%D8%B1%D8%A7%D9%8B/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/categories/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/</loc>
     <lastmod>2015-04-27T22:11:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/03/%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D9%85%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9/</loc>
     <lastmod>2015-03-06T21:45:58+00:00</lastmod>
     <xhtml:link
@@ -260,9 +217,7 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2015/03/%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D9%85%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D8%A9/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2014/05/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%85%D8%B2%D9%8A/</loc>
     <lastmod>2014-05-15T21:48:05+00:00</lastmod>
     <xhtml:link
@@ -280,9 +235,7 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2014/05/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%85%D8%B2%D9%8A/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/%D8%B9%D9%86-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/</loc>
     <lastmod>2014-05-11T21:15:27+00:00</lastmod>
     <xhtml:link
@@ -300,21 +253,14 @@
                 hreflang="ar"
                 href="https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/%D8%B9%D9%86-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2009/12/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D8%A7%D9%8B-%D9%85%D9%86-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D9%85%D8%A7%D9%84/</loc>
     <lastmod>2009-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/tags/%D9%82%D9%88%D9%85%D9%8A%D8%A9/</loc>
     <lastmod>2009-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%B3%D9%88%D8%B3%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9.%D8%B4%D8%A8%D9%83%D8%A9/blog/2009/08/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%88%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9/</loc>
     <lastmod>2009-08-23T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
